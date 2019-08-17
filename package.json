@@ -1,0 +1,25 @@
+{
+  "name": "Starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "parcel index.html"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johngwells/React-Starter.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johngwells/React-Starter/issues"
+  },
+  "homepage": "https://github.com/johngwells/React-Starter#readme",
+  "dependencies": {
+    "parcel-bundler": "^1.10.3",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  }
+}
